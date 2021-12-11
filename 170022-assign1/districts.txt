@@ -1,0 +1,727 @@
+Aizawl
+Champhai
+Lawngtlai
+Serchhip
+Hnahthial
+Saiha
+Kolasib
+Mamit
+Lunglei
+Wanaparthy
+Yadadri Bhuvanagiri
+Warangal Urban
+Hyderabad
+Jagtial
+Medchal Malkajgiri
+Bhadradri Kothagudem
+Peddapalli
+Karimnagar
+Nizamabad
+Siddipet
+Jayashankar Bhupalapally
+Vikarabad
+Nalgonda
+Khammam
+Jangaon
+Rajanna Sircilla
+Mulugu
+Ranga Reddy
+Mahabubabad
+Nirmal
+Nagarkurnool
+Warangal Rural
+Narayanpet
+Jogulamba Gadwal
+Mahabubnagar
+Mancherial
+Komaram Bheem
+Sangareddy
+Suryapet
+Kamareddy
+Adilabad
+Medak
+Dhalai
+Sipahijala
+Khowai
+Unokoti
+North Tripura
+West Tripura
+Gomati
+South Tripura
+Bharatpur
+Churu
+Sawai Madhopur
+Karauli
+Chittorgarh
+Hanumangarh
+Kota
+Sirohi
+Bundi
+Jhalawar
+Udaipur
+Banswara
+Ganganagar
+Jodhpur
+Bhilwara
+Pratapgarh
+Dungarpur
+Bikaner
+Baran
+Rajsamand
+Jhunjhunu
+Barmer
+Jalore
+Sikar
+Tonk
+Pali
+Ajmer
+Alwar
+Nagaur
+Dausa
+Jaipur
+Jaisalmer
+Dholpur
+Koraput
+Subarnapur
+Balasore
+Puri
+Sambalpur
+Kalahandi
+Jagatsinghpur
+Kendujhar
+Jharsuguda
+Malkangiri
+Deogarh
+Ganjam
+Balangir
+Mayurbhanj
+Jajpur
+Nayagarh
+Dhenkanal
+Cuttack
+Boudh
+Nuapada
+Bhadrak
+Angul
+Nabarangapur
+Sundargarh
+Gajapati
+Kendrapara
+Bargarh
+Khordha
+Kandhamal
+Rayagada
+Solan
+Sirmaur
+Chamba
+Bilaspur
+Shimla
+Hamirpur
+Lahaul and Spiti
+Kinnaur
+Mandi
+Una
+Kangra
+Kullu
+Diu
+Dadra and Nagar Haveli
+Daman
+Dimapur
+Tuensang
+Zunheboto
+Mon
+Mokokchung
+Peren
+Kohima
+Kiphire
+Phek
+Wokha
+Giridih
+Bokaro
+Dumka
+Gumla
+Ramgarh
+Deoghar
+West Singhbhum
+Godda
+Latehar
+East Singhbhum
+Ranchi
+Pakur
+Koderma
+Simdega
+Lohardaga
+Sahibganj
+Chatra
+Khunti
+Saraikela-Kharsawan
+Jamtara
+Hazaribagh
+Garhwa
+Dhanbad
+Palamu
+Rohtas
+Supaul
+Khagaria
+Begusarai
+Arwal
+Kishanganj
+Saharsa
+Darbhanga
+West Champaran
+Purnia
+Sheikhpura
+Lakhisarai
+Banka
+Katihar
+Nawada
+Sheohar
+Patna
+Buxar
+Jamui
+Aurangabad
+Araria
+Bhagalpur
+Madhubani
+Sitamarhi
+Siwan
+Bhojpur
+Gopalganj
+Vaishali
+Munger
+Jehanabad
+Samastipur
+Madhepura
+Gaya
+Muzaffarpur
+Nalanda
+Kaimur
+Saran
+East Champaran
+Karaikal
+Yanam
+Mahe
+Puducherry
+Shopiyan
+Udhampur
+Bandipora
+Punch
+Pulwama
+Samba
+Ganderbal
+Rajouri
+Ramban
+Budgam
+Kupwara
+Baramulla
+Kulgam
+Jammu
+Doda
+Anantnag
+Reasi
+Kathua
+Kishtwar
+Srinagar
+Chandigarh
+Sonbhadra
+Basti
+Hardoi
+Varanasi
+Lucknow
+Muzaffarnagar
+Firozabad
+Amethi
+Agra
+Barabanki
+Mahoba
+Ghazipur
+Deoria
+Mau
+Kasganj
+Sitapur
+Ayodhya
+Chandauli
+Jalaun
+Etawah
+Jaunpur
+Moradabad
+Kushinagar
+Amroha
+Ambedkar Nagar
+Saharanpur
+Bareilly
+Bijnor
+Meerut
+Gorakhpur
+Ghaziabad
+Bulandshahr
+Pilibhit
+Fatehpur
+Hamirpur
+Mathura
+Banda
+Etah
+Baghpat
+Bhadohi
+Pratapgarh
+Shamli
+Maharajganj
+Kaushambi
+Gonda
+Sambhal
+Shrawasti
+Unnao
+Mainpuri
+Rae Bareli
+Rampur
+Sultanpur
+Farrukhabad
+Ballia
+Shahjahanpur
+Jhansi
+Lalitpur
+Hapur
+Azamgarh
+Bahraich
+Budaun
+Lakhimpur Kheri
+Gautam Buddha Nagar
+Auraiya
+Kanpur Dehat
+Kanpur Nagar
+Hathras
+Kannauj
+Siddharthnagar
+Prayagraj
+Balrampur
+Chitrakoot
+Mirzapur
+Sant Kabir Nagar
+Aligarh
+Coimbatore
+Chengalpattu
+Ariyalur
+Ranipet
+Kancheepuram
+Thoothukkudi
+Chennai
+Dindigul
+Namakkal
+Viluppuram
+Erode
+Tiruchirappalli
+Thiruvallur
+Pudukkottai
+Tiruvannamalai
+Tiruppur
+Ramanathapuram
+Virudhunagar
+Kanyakumari
+Tirunelveli
+Tirupathur
+Thanjavur
+Kallakurichi
+Karur
+Nagapattinam
+Madurai
+Theni
+Nilgiris
+Railway Quarantine
+Salem
+Cuddalore
+Sivaganga
+Thiruvarur
+Vellore
+Dharmapuri
+Krishnagiri
+Perambalur
+Tenkasi
+Burhanpur
+Sheopur
+Dewas
+Ujjain
+Satna
+Indore
+Sidhi
+Sagar
+Dhar
+Shivpuri
+Sehore
+Chhatarpur
+Seoni
+Dindori
+Jhabua
+Gwalior
+Chhindwara
+Bhind
+Singrauli
+Bhopal
+Panna
+Hoshangabad
+Niwari
+Anuppur
+Barwani
+Umaria
+Jabalpur
+Rewa
+Khargone
+Betul
+Datia
+Katni
+Ashoknagar
+Shahdol
+Agar Malwa
+Tikamgarh
+Khandwa
+Vidisha
+Ratlam
+Rajgarh
+Alirajpur
+Damoh
+Mandsaur
+Balaghat
+Narsinghpur
+Neemuch
+Raisen
+Harda
+Mandla
+Shajapur
+Morena
+Guna
+Panchkula
+Karnal
+Mahendragarh
+Kaithal
+Bhiwani
+Jhajjar
+Faridabad
+Sonipat
+Sirsa
+Yamunanagar
+Palwal
+Rewari
+Fatehabad
+Panipat
+Kurukshetra
+Gurugram
+Ambala
+Nuh
+Hisar
+Rohtak
+Charkhi Dadri
+Jind
+West Godavari
+Vizianagaram
+S.P.S. Nellore
+East Godavari
+Prakasam
+Kurnool
+Krishna
+Srikakulam
+Anantapur
+Guntur
+Chittoor
+Visakhapatnam
+Y.S.R. Kadapa
+Alappuzha
+KAsaragod
+Idukki
+Thiruvananthapuram
+Kozhikode
+Kannur
+Thrissur
+Malappuram
+Kottayam
+Kasaragod
+Wayanad
+Pathanamthitta
+Ernakulam
+Kollam
+Palakkad
+South Goa
+North Goa
+Latur
+Mumbai
+Nashik
+Gadchiroli
+Jalgaon
+Washim
+Hingoli
+Sangli
+Solapur
+Ahmednagar
+Raigad
+Wardha
+Unknown
+Akola
+Nagpur
+Chandrapur
+Aurangabad
+Beed
+Buldhana
+Satara
+Bhandara
+Yavatmal
+Nanded
+Gondia
+Nandurbar
+Jalna
+Ratnagiri
+Parbhani
+Thane
+Amravati
+Pune
+Osmanabad
+Sindhudurg
+Dhule
+Palghar
+Kolhapur
+Ballari
+RAICHUR
+UTTARA KANNADA
+Ramanagara
+Bagalkote
+Chitradurga
+Yadgir
+MANDYA
+Dakshina Kannada
+Hassan
+Koppal
+Chikkamagaluru
+Tumakuru
+HAVERI
+UDUPI
+Dharwad
+Uttara Kannada
+KOPPAL
+Udupi
+Haveri
+Kolar
+Chikkaballapura
+HASSAN
+BAGALKOTE
+Shivamogga
+Raichur
+Belagavi
+Bengaluru Rural
+Mysuru
+Bengaluru urban
+Mandya
+KALABURAGI
+Bidar
+Chamarajanagara
+Kalaburagi
+Davanagere
+Bengaluru Urban
+DAKSHINA KANNADA
+Gadag
+Kodagu
+Vijayapura
+Ukhrul
+Imphal West
+Tamenglong
+Kangpokpi
+Bishnupur
+Pherzawl
+Senapati
+Imphal East
+CAPF Personnel
+Kakching
+Jiribam
+Chandel
+Churachandpur
+Thoubal
+Noney
+Kamjong
+Kolkata
+Purulia
+Howrah
+Paschim Bardhaman
+Murshidabad
+Purba Bardhaman
+Dakshin Dinajpur
+Jalpaiguri
+Nadia
+Hooghly
+North 24 Parganas
+Birbhum
+Uttar Dinajpur
+South 24 Parganas
+Darjeeling
+Purba Medinipur
+Alipurduar
+Jhargram
+Paschim Medinipur
+Kalimpong
+Bankura
+Cooch Behar
+Malda
+Tinsukia
+Jorhat
+Dhubri
+Kamrup Metropolitan
+Karbi Anglong
+Morigaon
+Golaghat
+Kishanganj
+South Salmara Mankachar
+Dibrugarh
+Darrang
+Hailakandi
+Sivasagar
+Bongaigaon
+Kokrajhar
+Goalpara
+Sonitpur
+Karimganj
+Barpeta
+Cachar
+Baksa
+West Karbi Anglong
+Hojai
+Chirang
+Dima Hasao
+Lakhimpur
+Majuli
+Charaideo
+Biswanath
+Nalbari
+Dhemaji
+Udalguri
+Kamrup
+Nagaon
+Vadodara
+Navsari
+tapi
+Surendranagar
+Narmada
+Junagadh
+Porbandar
+Panchmahal
+Anand
+Sabarkantha
+Bharuch
+Ahmedabad
+porbandar
+Chhota Udaipur
+Patan
+Valsad
+Rajkot
+Mehsana
+Morbi
+Tapi
+Jamnagar
+Dahod
+Gandhinagar
+Amreli
+Bhavnagar
+Kheda
+Aravalli
+Botad
+Gir Somnath
+Dang
+Devbhumi Dwarka
+Mahisagar
+Surat
+Banaskantha
+Kutch
+Narayanpur
+Bametara
+Kabeerdham
+Dhamtari
+Surajpur
+Janjgir Champa
+Kondagaon
+Bastar
+Baloda Bazar
+Raigarh
+Durg
+Rajnandgaon
+Mungeli
+Mahasamund
+Surguja
+Koriya
+Bilaspur
+Raipur
+Dakshin Bastar Dantewada
+Balod
+Jashpur
+Gaurela Pendra Marwahi
+Uttar Bastar Kanker
+Bijapur
+Gariaband
+Korba
+Balrampur
+Sukma
+Kargil
+Leh
+Kapurthala
+Moga
+Ludhiana
+Patiala
+Sangrur
+S.A.S. Nagar
+Tarn Taran
+Rupnagar
+Pathankot
+Bathinda
+Sri Muktsar Sahib
+Fazilka
+Ferozepur
+Mansa
+Gurdaspur
+Fatehgarh Sahib
+Barnala
+Jalandhar
+Faridkot
+Amritsar
+Shahid Bhagat Singh Nagar
+Hoshiarpur
+Lower Siang
+Shi Yomi
+Papum Pare
+Upper Siang
+West Siang
+Changlang
+Pakke Kessang
+Lower Subansiri
+East Siang
+Upper Dibang Valley
+Upper Subansiri
+Lepa Rada
+Siang
+West Kameng
+Tirap
+Longding
+Tawang
+East Kameng
+Namsai
+Lohit
+Lower Dibang Valley
+Kamle
+Anjaw
+Tehri Garhwal
+Rudraprayag
+Dehradun
+Pithoragarh
+Udham Singh Nagar
+Bageshwar
+Nainital
+Champawat
+Pauri Garhwal
+Almora
+Haridwar
+Uttarkashi
+Chamoli
+East Sikkim
+East Jaintia Hills
+West Jaintia Hills
+South Garo Hills
+East Garo Hills
+West Khasi Hills
+West Garo Hills
+South West Khasi Hills
+South West Garo Hills
+East Khasi Hills
+North Garo Hills
+Ribhoi

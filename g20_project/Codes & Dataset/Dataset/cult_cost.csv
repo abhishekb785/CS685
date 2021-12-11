@@ -1,0 +1,301 @@
+Crop,State,Year,CostperHect,CostperQuint
+Rice,Andhra Pradesh,2008,46450.2,789.9
+Rice,Andhra Pradesh,2009,54202.54,932.5
+Rice,Andhra Pradesh,2010,51505.34,916.98
+Rice,Andhra Pradesh,2011,58027.19,976.36
+Rice,Andhra Pradesh,2012,68149.69,1135.01
+Rice,Andhra Pradesh,2013,72417.05,1248.2
+Rice,Odisha,2008,25909.05,715.04
+Rice,Odisha,2009,28143.88,793.65
+Rice,Odisha,2010,30318.4,955.59
+Rice,Odisha,2011,35972.5,1221.44
+Rice,Odisha,2012,44091.78,1159.54
+Rice,Odisha,2013,46839.15,1408.4
+Rice,Punjab,2008,45291.24,669.86
+Rice,Punjab,2009,50650.21,773.18
+Rice,Punjab,2010,51279.34,836.46
+Rice,Punjab,2011,53813.93,904.3
+Rice,Punjab,2012,64811.36,945.73
+Rice,Punjab,2013,68382.86,1043.27
+Rice,Uttar Pradesh,2008,28144.5,732.62
+Rice,Uttar Pradesh,2009,32327.78,812.97
+Rice,Uttar Pradesh,2010,32299.35,806.87
+Rice,Uttar Pradesh,2011,40146.68,957.83
+Rice,Uttar Pradesh,2012,43620.87,1019.43
+Rice,Uttar Pradesh,2013,45617.43,1031.23
+Rice,West Bengal,2008,33046.12,731.25
+Rice,West Bengal,2009,38111.55,865.12
+Rice,West Bengal,2010,43019.85,1022.83
+Rice,West Bengal,2011,49142.99,1085.76
+Rice,West Bengal,2012,55982.79,1236.05
+Rice,West Bengal,2013,60924.19,1366.8
+Wheat,Haryana,2008,37450.75,716.55
+Wheat,Haryana,2009,41692.91,832.45
+Wheat,Haryana,2010,42323.07,773.05
+Wheat,Haryana,2011,51170.51,850.66
+Wheat,Haryana,2012,54067.45,1047.78
+Wheat,Haryana,2013,60738.72,1051.61
+Wheat,Madhya Pradesh,2008,22489.75,810.25
+Wheat,Madhya Pradesh,2009,24217.75,808.48
+Wheat,Madhya Pradesh,2010,27532.33,834.21
+Wheat,Madhya Pradesh,2011,33396.15,851.95
+Wheat,Madhya Pradesh,2012,37119.94,958.95
+Wheat,Madhya Pradesh,2013,37655.11,1078.96
+Wheat,Punjab,2008,35423.48,804.8
+Wheat,Punjab,2009,38282.74,816.89
+Wheat,Punjab,2010,42983.98,871.74
+Wheat,Punjab,2011,49298.84,888.55
+Wheat,Punjab,2012,49518.78,981.21
+Wheat,Punjab,2013,55202.93,970.47
+Wheat,Rajasthan,2008,29876.36,683.58
+Wheat,Rajasthan,2009,31794.11,709.16
+Wheat,Rajasthan,2010,31630.89,666.87
+Wheat,Rajasthan,2011,40286.2,825.94
+Wheat,Rajasthan,2012,46942.45,920.63
+Wheat,Rajasthan,2013,53014.68,1036.32
+Wheat,Uttar Pradesh,2008,31902.74,769.84
+Wheat,Uttar Pradesh,2009,33574.7,832.96
+Wheat,Uttar Pradesh,2010,35984.44,803.68
+Wheat,Uttar Pradesh,2011,42383.57,930.55
+Wheat,Uttar Pradesh,2012,44383.07,1058.98
+Wheat,Uttar Pradesh,2013,46415.97,1074.57
+Maize,Andhra Pradesh,2008,37801.85,840.58
+Maize,Andhra Pradesh,2009,38564.55,831.69
+Maize,Andhra Pradesh,2010,46228.5,866.46
+Maize,Andhra Pradesh,2011,44038.14,891.54
+Maize,Andhra Pradesh,2012,54929.2,1095.82
+Maize,Andhra Pradesh,2013,62171.86,1302.75
+Maize,Bihar,2008,19857.7,404.43
+Maize,Bihar,2009,21727.92,541.8
+Maize,Bihar,2010,23251.28,517.36
+Maize,Bihar,2011,27640.99,754.13
+Maize,Bihar,2012,29413.36,785.93
+Maize,Bihar,2013,31831.53,1031.69
+Maize,Karnataka,2008,20671.54,581.69
+Maize,Karnataka,2009,20779.06,666.17
+Maize,Karnataka,2010,25946.48,692.08
+Maize,Karnataka,2011,36272.45,901.33
+Maize,Karnataka,2012,37983.2,1249.37
+Maize,Karnataka,2013,43541.86,1062.62
+Maize,Rajasthan,2008,19810.29,658.77
+Maize,Rajasthan,2009,24170.84,1089.69
+Maize,Rajasthan,2010,26344.13,902.46
+Maize,Rajasthan,2011,27539.49,1137.58
+Maize,Rajasthan,2012,37008.69,1271.73
+Maize,Rajasthan,2013,42862.28,1904.7
+Maize,Uttar Pradesh,2008,21045.11,1387.36
+Maize,Uttar Pradesh,2009,26822.77,1308.53
+Maize,Uttar Pradesh,2010,21141.46,966.35
+Maize,Uttar Pradesh,2011,26461.18,1256.93
+Maize,Uttar Pradesh,2012,31987.34,1453.77
+Maize,Uttar Pradesh,2013,36670.76,1636.08
+Gram,Andhra Pradesh,2008,26762.09,1559.04
+Gram,Andhra Pradesh,2009,25110.13,1960.63
+Gram,Andhra Pradesh,2010,27009.25,1975.95
+Gram,Andhra Pradesh,2011,28608.56,3727.88
+Gram,Andhra Pradesh,2012,37544.9,2985.37
+Gram,Andhra Pradesh,2013,38573.69,3094.22
+Gram,Madhya Pradesh,2008,NA,1551.94
+Gram,Madhya Pradesh,2009,18468.11,1530.3
+Gram,Madhya Pradesh,2010,18657.75,1728.81
+Gram,Madhya Pradesh,2011,29948.11,2434.9
+Gram,Madhya Pradesh,2012,31634.35,2714.67
+Gram,Madhya Pradesh,2013,28298.52,2946.02
+Gram,Maharashtra,2008,18679.33,2277.68
+Gram,Maharashtra,2009,18517.76,2064.82
+Gram,Maharashtra,2010,21066.61,2095.84
+Gram,Maharashtra,2011,31554.14,2892.72
+Gram,Maharashtra,2012,34969.7,2964.75
+Gram,Maharashtra,2013,38595.38,2776.56
+Gram,Rajasthan,2008,12610.85,1691.66
+Gram,Rajasthan,2009,14386.16,1774.28
+Gram,Rajasthan,2010,14646.41,1515.53
+Gram,Rajasthan,2011,22226.27,2600.39
+Gram,Rajasthan,2012,25768.76,2392.52
+Gram,Rajasthan,2013,24904.73,2191.97
+Gram,Uttar Pradesh,2008,21618.43,1882.68
+Gram,Uttar Pradesh,2009,19709.15,2022.28
+Gram,Uttar Pradesh,2010,26111.52,1933.6
+Gram,Uttar Pradesh,2011,30746.91,2452.04
+Gram,Uttar Pradesh,2012,30759.07,3048.41
+Gram,Uttar Pradesh,2013,26344.59,5205.84
+Arhar,Andhra Pradesh,2008,24171.65,3670.54
+Arhar,Andhra Pradesh,2009,30960.04,3149.79
+Arhar,Andhra Pradesh,2010,24794.18,4359.32
+Arhar,Andhra Pradesh,2011,33439.35,3184.5
+Arhar,Andhra Pradesh,2012,34562.24,4483.98
+Arhar,Andhra Pradesh,2013,39446.75,4701.06
+Arhar,Gujarat,2008,19551.9,1898.3
+Arhar,Gujarat,2009,22927.11,3460.69
+Arhar,Gujarat,2010,23649.18,2033.24
+Arhar,Gujarat,2011,27780.68,3095.78
+Arhar,Gujarat,2012,25431.37,3746.87
+Arhar,Gujarat,2013,30202.7,3889.45
+Arhar,Karnataka,2008,16528.68,2172.46
+Arhar,Karnataka,2009,19420,2646.26
+Arhar,Karnataka,2010,22646.03,3026.18
+Arhar,Karnataka,2011,26052.49,2642.58
+Arhar,Karnataka,2012,28125.65,3101.5
+Arhar,Karnataka,2013,32684.74,3058.02
+Arhar,Maharashtra,2008,25270.26,2775.8
+Arhar,Maharashtra,2009,40308.28,2435.77
+Arhar,Maharashtra,2010,44650.4,3657.08
+Arhar,Maharashtra,2011,46445.03,3138.74
+Arhar,Maharashtra,2012,58795.49,3101.81
+Arhar,Maharashtra,2013,63071.76,2982.01
+Arhar,Uttar Pradesh,2008,23076.74,1941.55
+Arhar,Uttar Pradesh,2009,23644.63,4170.24
+Arhar,Uttar Pradesh,2010,24681.41,2844.81
+Arhar,Uttar Pradesh,2011,30354.34,2945.32
+Arhar,Uttar Pradesh,2012,42500.53,4104.7
+Arhar,Uttar Pradesh,2013,42211.08,4750.66
+Moong(Green Gram),Andhra Pradesh,2008,13209.32,2228.97
+Moong(Green Gram),Andhra Pradesh,2009,12624.29,4013.56
+Moong(Green Gram),Andhra Pradesh,2010,12787.6,3029.63
+Moong(Green Gram),Andhra Pradesh,2011,20669.87,2855.81
+Moong(Green Gram),Andhra Pradesh,2012,20890.82,4607.75
+Moong(Green Gram),Andhra Pradesh,2013,26795.33,4327.74
+Moong(Green Gram),Karnataka,2008,7868.64,5777.48
+Moong(Green Gram),Karnataka,2009,9958.79,3683.08
+Moong(Green Gram),Karnataka,2010,11575.35,3946.43
+Moong(Green Gram),Karnataka,2011,14007.79,4101.71
+Moong(Green Gram),Karnataka,2012,16914.28,4437.37
+Moong(Green Gram),Karnataka,2013,22143.16,3699.01
+Moong(Green Gram),Maharashtra,2008,15371.45,2261.24
+Moong(Green Gram),Maharashtra,2009,19210.54,3095.42
+Moong(Green Gram),Maharashtra,2010,24524.63,3762.02
+Moong(Green Gram),Maharashtra,2011,26008.25,5072.1
+Moong(Green Gram),Maharashtra,2012,35204.77,4761.73
+Moong(Green Gram),Maharashtra,2013,30942.16,7816.61
+Moong(Green Gram),Odisha,2008,8266.98,2614.14
+Moong(Green Gram),Odisha,2009,11329.74,3415.17
+Moong(Green Gram),Odisha,2010,11560.04,3758
+Moong(Green Gram),Odisha,2011,13352.63,4008.04
+Moong(Green Gram),Odisha,2012,15277.87,4855.53
+Moong(Green Gram),Odisha,2013,16749.8,5183.34
+Moong(Green Gram),Rajasthan,2008,9165.59,2068.67
+Moong(Green Gram),Rajasthan,2009,9597.52,5035.39
+Moong(Green Gram),Rajasthan,2010,14347.47,2678.85
+Moong(Green Gram),Rajasthan,2011,17243.8,3598.21
+Moong(Green Gram),Rajasthan,2012,18252.97,5638.58
+Moong(Green Gram),Rajasthan,2013,18121.98,5989.18
+Groundnut,Andhra Pradesh,2008,30434.61,2554.91
+Groundnut,Andhra Pradesh,2009,35699.44,2537.04
+Groundnut,Andhra Pradesh,2010,52622.39,2564.73
+Groundnut,Andhra Pradesh,2011,65632.13,3714.44
+Groundnut,Andhra Pradesh,2012,82034.41,3681.36
+Groundnut,Andhra Pradesh,2013,72766.7,4045.91
+Groundnut,Gujarat,2008,30114.45,1918.92
+Groundnut,Gujarat,2009,31053,2489.61
+Groundnut,Gujarat,2010,33907.63,2036.06
+Groundnut,Gujarat,2011,42836.57,2916.12
+Groundnut,Gujarat,2012,48014.65,4904.58
+Groundnut,Gujarat,2013,59846.77,2859.24
+Groundnut,Karnataka,2008,17314.2,3484.01
+Groundnut,Karnataka,2009,19046.88,2551.35
+Groundnut,Karnataka,2010,23374.3,4172.88
+Groundnut,Karnataka,2011,35575.79,4429.03
+Groundnut,Karnataka,2012,41102.31,5397.78
+Groundnut,Karnataka,2013,38980.28,3805.07
+Groundnut,Maharashtra,2008,32683.46,3207.35
+Groundnut,Maharashtra,2009,32685.46,1753.36
+Groundnut,Maharashtra,2010,41448.5,2188.33
+Groundnut,Maharashtra,2011,55664.05,4094.39
+Groundnut,Maharashtra,2012,63610.79,3022.92
+Groundnut,Maharashtra,2013,56900.39,4265.35
+Groundnut,Tamil Nadu,2008,30393.66,2358
+Groundnut,Tamil Nadu,2009,33112.7,2672.92
+Groundnut,Tamil Nadu,2010,38249.59,2631.91
+Groundnut,Tamil Nadu,2011,47915.18,3270.77
+Groundnut,Tamil Nadu,2012,60949.53,3892.73
+Groundnut,Tamil Nadu,2013,73352.04,4135.55
+Rapeseed &Mustard,Gujarat,2008,19083.55,1610.4
+Rapeseed &Mustard,Gujarat,2009,22743.47,1416.38
+Rapeseed &Mustard,Gujarat,2010,25410.16,1359.44
+Rapeseed &Mustard,Gujarat,2011,30804.92,1779.16
+Rapeseed &Mustard,Gujarat,2012,30352.12,2040.49
+Rapeseed &Mustard,Gujarat,2013,38209.57,2122.38
+Rapeseed &Mustard,Haryana,2008,27507.54,1251.12
+Rapeseed &Mustard,Haryana,2009,30753.93,1555.52
+Rapeseed &Mustard,Haryana,2010,29583.16,1305.96
+Rapeseed &Mustard,Haryana,2011,41935.26,2045.9
+Rapeseed &Mustard,Haryana,2012,45678.6,2720.84
+Rapeseed &Mustard,Haryana,2013,46916.04,2566.65
+Rapeseed &Mustard,Madhya Pradesh,2008,17705.93,1279.6
+Rapeseed &Mustard,Madhya Pradesh,2009,18682.26,1361.6
+Rapeseed &Mustard,Madhya Pradesh,2010,22649.54,1340.27
+Rapeseed &Mustard,Madhya Pradesh,2011,28892.26,1960.58
+Rapeseed &Mustard,Madhya Pradesh,2012,32829.58,1990.33
+Rapeseed &Mustard,Madhya Pradesh,2013,32182.5,1907.18
+Rapeseed &Mustard,Rajasthan,2008,19259.84,1341.29
+Rapeseed &Mustard,Rajasthan,2009,20807.48,1357.13
+Rapeseed &Mustard,Rajasthan,2010,20829.25,1238.71
+Rapeseed &Mustard,Rajasthan,2011,28041.38,2238.94
+Rapeseed &Mustard,Rajasthan,2012,31256.29,2356.58
+Rapeseed &Mustard,Rajasthan,2013,33142.03,2395.48
+Rapeseed &Mustard,Uttar Pradesh,2008,22560.3,1595.56
+Rapeseed &Mustard,Uttar Pradesh,2009,24408.12,1482.13
+Rapeseed &Mustard,Uttar Pradesh,2010,26766.64,1569.88
+Rapeseed &Mustard,Uttar Pradesh,2011,31252.97,2694.2
+Rapeseed &Mustard,Uttar Pradesh,2012,35731.08,2567.39
+Rapeseed &Mustard,Uttar Pradesh,2013,39658.1,2862.76
+Cotton,Andhra Pradesh,2008,44756.72,2509.99
+Cotton,Andhra Pradesh,2009,42919.36,2406.53
+Cotton,Andhra Pradesh,2010,49401.41,3305.52
+Cotton,Andhra Pradesh,2011,61634,3557.48
+Cotton,Andhra Pradesh,2012,70609.51,4088.93
+Cotton,Andhra Pradesh,2013,83491.53,4252.82
+Cotton,Gujarat,2008,42070.44,2179.26
+Cotton,Gujarat,2009,42295.36,2225.45
+Cotton,Gujarat,2010,53725.77,2414.76
+Cotton,Gujarat,2011,58037.88,3267.52
+Cotton,Gujarat,2012,54769.45,4346.97
+Cotton,Gujarat,2013,70673.49,3344.53
+Cotton,Haryana,2008,44018.18,2127.35
+Cotton,Haryana,2009,48920.33,2413.61
+Cotton,Haryana,2010,46815.11,2800.54
+Cotton,Haryana,2011,62329.97,3229.48
+Cotton,Haryana,2012,67129.55,3795.99
+Cotton,Haryana,2013,69750.63,4182.82
+Cotton,Maharashtra,2008,33116.82,2539.47
+Cotton,Maharashtra,2009,35822.07,2671.66
+Cotton,Maharashtra,2010,52583.55,3603.2
+Cotton,Maharashtra,2011,61907.49,3985.05
+Cotton,Maharashtra,2012,71079.73,4120.27
+Cotton,Maharashtra,2013,73232.07,4036.48
+Cotton,Punjab,2008,50828.83,2003.76
+Cotton,Punjab,2009,53071.62,2354
+Cotton,Punjab,2010,59282.06,2947.32
+Cotton,Punjab,2011,66697.56,3759.44
+Cotton,Punjab,2012,73475.32,3744.83
+Cotton,Punjab,2013,74406.8,4073.29
+Sugarcane,Andhra Pradesh,2008,91442.63,119.72
+Sugarcane,Andhra Pradesh,2009,103157.5,130.27
+Sugarcane,Andhra Pradesh,2010,127319,149.75
+Sugarcane,Andhra Pradesh,2011,124488.9,183.49
+Sugarcane,Andhra Pradesh,2012,92530.18,161.82
+Sugarcane,Andhra Pradesh,2013,106155.54,147.94
+Sugarcane,Karnataka,2008,86765.77,86.53
+Sugarcane,Karnataka,2009,87597.81,133.25
+Sugarcane,Karnataka,2010,86276.15,93.02
+Sugarcane,Karnataka,2011,94585.62,122.96
+Sugarcane,Karnataka,2012,97193.91,130.74
+Sugarcane,Karnataka,2013,113950.26,130.74
+Sugarcane,Maharashtra,2008,85801.95,107.56
+Sugarcane,Maharashtra,2009,127304.6,121.23
+Sugarcane,Maharashtra,2010,128996.6,124.41
+Sugarcane,Maharashtra,2011,146726.7,138.64
+Sugarcane,Maharashtra,2012,167008.63,152.59
+Sugarcane,Maharashtra,2013,170931,152.53
+Sugarcane,Tamil Nadu,2008,89025.27,85.79
+Sugarcane,Tamil Nadu,2009,97335.86,100
+Sugarcane,Tamil Nadu,2010,113058.6,110.55
+Sugarcane,Tamil Nadu,2011,133840.6,128.45
+Sugarcane,Tamil Nadu,2012,158319.18,150.22
+Sugarcane,Tamil Nadu,2013,160072.5,163.76
+Sugarcane,Uttar Pradesh,2008,45239.51,93.64
+Sugarcane,Uttar Pradesh,2009,56283.73,105.56
+Sugarcane,Uttar Pradesh,2010,66799.17,124.3
+Sugarcane,Uttar Pradesh,2011,78549.41,141.13
+Sugarcane,Uttar Pradesh,2012,88650.3,158.21
+Sugarcane,Uttar Pradesh,2013,86125.78,165.24
